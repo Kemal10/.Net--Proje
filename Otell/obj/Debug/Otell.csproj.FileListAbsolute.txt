@@ -1,0 +1,13 @@
+C:\Users\Yasemin\source\repos\Otell\Otell\bin\Debug\Otell.exe.config
+C:\Users\Yasemin\source\repos\Otell\Otell\bin\Debug\Otell.exe
+C:\Users\Yasemin\source\repos\Otell\Otell\bin\Debug\Otell.pdb
+C:\Users\Yasemin\source\repos\Otell\Otell\obj\Debug\Otell.csprojAssemblyReference.cache
+C:\Users\Yasemin\source\repos\Otell\Otell\obj\Debug\Otell.Form1.resources
+C:\Users\Yasemin\source\repos\Otell\Otell\obj\Debug\Otell.Musteri_Kayit.resources
+C:\Users\Yasemin\source\repos\Otell\Otell\obj\Debug\Otell.Properties.Resources.resources
+C:\Users\Yasemin\source\repos\Otell\Otell\obj\Debug\Otell.csproj.GenerateResource.cache
+C:\Users\Yasemin\source\repos\Otell\Otell\obj\Debug\Otell.csproj.CoreCompileInputs.cache
+C:\Users\Yasemin\source\repos\Otell\Otell\obj\Debug\Otell.exe
+C:\Users\Yasemin\source\repos\Otell\Otell\obj\Debug\Otell.pdb
+C:\Users\Yasemin\source\repos\Otell\Otell\obj\Debug\Otell.Listeleme.resources
+C:\Users\Yasemin\source\repos\Otell\Otell\obj\Debug\Otell.Oda_Kayit.resources
